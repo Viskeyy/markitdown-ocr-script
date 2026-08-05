@@ -39,8 +39,6 @@ The interesting part is the LLM connection. When MarkItDown meets content it can
 4. Use this Python script
 
    ```bash
-   chmod +x /path/to/your/mdocr.py
-
    uv run --with markitdown --with markitdown-ocr --with openai /path/to/your/mdocr.py document.pdf > output.md
    ```
 
