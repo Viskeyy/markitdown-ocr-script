@@ -12,6 +12,8 @@ The interesting part is the LLM connection. When MarkItDown meets content it can
 
 ## How to use
 
+> note: `ffmpeg` is required
+
 1. Install `uv` via Homebrew
 
    ```bash
